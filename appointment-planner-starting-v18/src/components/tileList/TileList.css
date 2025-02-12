@@ -1,0 +1,13 @@
+.tile-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .tile {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 4px;
+    width: 200px;
+  }
+  
